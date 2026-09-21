@@ -663,7 +663,6 @@ private fun TopBar(
     ) { }
 
     val context = LocalContext.current
-
     TopAppBar(
         title = {
             Row(
